@@ -1,4 +1,5 @@
-[研究设计.tif](https://github.com/user-attachments/files/29537216/default.tif)
+<img width="3855" height="3024" alt="SKIN" src="https://github.com/user-attachments/assets/60f2bb80-c3a6-40ba-9051-b19e3ff1e172" />
+
 # DCSNeXt-Skin-Disease
 Dual-modality deep learning–based skin disease diagnosis and Physician–AI collaborative evaluation: multi-source validation and exploration of clinical applicability.
 Our intelligent skin lesion–assisted diagnostic platform can be accessed via the following link: http://wengzq-lab.cn/AI-Skin/
